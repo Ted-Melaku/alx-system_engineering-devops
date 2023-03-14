@@ -1,3 +1,4 @@
 #!/bin/bash
-tr 'A-Za-z' 'N-ZA-Mn-za-m'
+tr 'A-Z' 'a-z' 'N-Z''A-M' 'n-z' 'a-m'
+
 
